@@ -1,0 +1,20 @@
+# Shell
+brew "zoxide"        # smarter cd
+brew "starship"      # shell prompt
+brew "atuin"         # shell history
+brew "fzf"           # fuzzy finder
+
+# Editor
+brew "neovim"
+
+# Terminal tools
+brew "lsd"           # ls replacement
+brew "lazygit"       # git TUI
+brew "bottom"        # system monitor (btm)
+brew "gh"            # GitHub CLI
+
+# Fonts
+cask "font-jetbrains-mono-nerd-font"
+
+# Terminal emulator
+cask "ghostty"

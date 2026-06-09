@@ -1,0 +1,11 @@
+export PATH="$HOME/.local/bin:$PATH"
+
+# shell prompt
+export STARSHIP_CONFIG=$HOME/.config/starship/config.toml
+
+# defaults
+export EDITOR='nvim'
+export BROWSER='chrome'
+
+# Brew-file
+export HOMEBREW_BUNDLE_FILE=$HOME/.config/brew/Brewfile
